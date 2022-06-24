@@ -1,0 +1,4 @@
+Voice_I2C.c:29:6:Init_Voice	40	static
+Voice_I2C.c:47:6:Line_1A_WT588F	24	static
+Voice_I2C.c:93:6:Line_2A_WT588F	24	static
+Voice_I2C.c:131:6:VoiceOutput	16	static

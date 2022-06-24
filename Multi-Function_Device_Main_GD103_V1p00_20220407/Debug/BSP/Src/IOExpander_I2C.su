@@ -1,0 +1,3 @@
+IOExpander_I2C.c:29:6:Configure_IOExpander	40	static
+IOExpander_I2C.c:45:6:Write_IOExpander	40	static
+IOExpander_I2C.c:60:9:Read_IOExpander	24	static

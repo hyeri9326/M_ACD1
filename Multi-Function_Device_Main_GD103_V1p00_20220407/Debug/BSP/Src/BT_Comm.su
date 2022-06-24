@@ -1,0 +1,15 @@
+BT_Comm.c:50:6:send_packet	32	static
+BT_Comm.c:60:6:res_serial_number	8	static
+BT_Comm.c:64:6:res_sys_status	16	static
+BT_Comm.c:72:6:res_reset	16	static
+BT_Comm.c:89:6:res_factoryreset	16	static
+BT_Comm.c:94:6:res_debugmode	16	static
+BT_Comm.c:99:6:res_sysevent	16	static
+BT_Comm.c:122:6:res_write_set	16	static
+BT_Comm.c:157:6:BT_Proc	24	static
+BT_Comm.c:246:6:Chk_Cmd	32	static
+BT_Comm.c:265:6:read_systemstatus	8	static
+BT_Comm.c:376:15:CheckSumVerify	24	static
+BT_Comm.c:391:15:CheckSumModVerify	24	static
+BT_Comm.c:409:6:Dec2Bin	32	static
+BT_Comm.c:426:6:send_transmit	16	static

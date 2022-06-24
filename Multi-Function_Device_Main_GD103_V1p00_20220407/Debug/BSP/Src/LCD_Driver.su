@@ -1,0 +1,12 @@
+LCD_Driver.c:40:13:LCD_Reset	8	static
+LCD_Driver.c:56:6:LCD_SetBacklight	16	static
+LCD_Driver.c:64:6:LCD_WriteData_Byte	16	static
+LCD_Driver.c:71:6:LCD_WriteData_Word	24	static
+LCD_Driver.c:80:6:LCD_WriteReg	16	static
+LCD_Driver.c:95:6:LCD_Init	8	static
+LCD_Driver.c:201:6:LCD_SetCursor	24	static
+LCD_Driver.c:226:6:LCD_Clear	24	static
+LCD_Driver.c:245:6:LCD_ClearWindow	32	static
+LCD_Driver.c:264:6:LCD_ClearWindowMod	32	static
+LCD_Driver.c:284:6:LCD_SetWindowColor	24	static
+LCD_Driver.c:297:6:LCD_SetUWORD	16	static

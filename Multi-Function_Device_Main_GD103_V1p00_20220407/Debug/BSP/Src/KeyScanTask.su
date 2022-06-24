@@ -1,0 +1,8 @@
+KeyScanTask.c:47:6:KeyVariableInit	4	static
+KeyScanTask.c:61:15:KeyDecode	16	static
+KeyScanTask.c:84:6:KeyBufIn	16	static
+KeyScanTask.c:105:15:KeyIsKeyDown	16	static
+KeyScanTask.c:130:15:KeyHit	4	static
+KeyScanTask.c:142:15:KeyGetKey	16	static
+KeyScanTask.c:167:6:Key_Function	8	static
+KeyScanTask.c:308:6:KeyScanTask	8	static

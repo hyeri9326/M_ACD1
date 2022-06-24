@@ -1,0 +1,6 @@
+CapTouch_I2C.c:30:6:Configure_CapTouch	32	static
+CapTouch_I2C.c:102:6:Write_CapTouch	40	static
+CapTouch_I2C.c:117:9:Read_CapTouch	32	static
+CapTouch_I2C.c:137:6:LedToggle_CapTouch	32	static
+CapTouch_I2C.c:165:6:CapTouch_SleepModeEnable	32	static
+CapTouch_I2C.c:202:6:CapTouch_SleepModeDisable	32	static
